@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27F5C2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Aires+José+Matos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=27F5C2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Aires+José+Matos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,6 +12,9 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/aires-jose-matos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.instagram.com/matosairesjose/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -37,6 +40,13 @@
   <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117" alt="Insomnia"/>
 </p>
 
+###  Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=0D1117" alt="SQL Server"/>
+</p>
+
 ###  AI Tools & Assistants
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117" alt="Google Gemini"/>
@@ -47,8 +57,6 @@
 ###  Other Knowledge
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python"/>
-  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=0D1117" alt="SQL Server"/>
 </p>
 
 <hr>
