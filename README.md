@@ -61,6 +61,5 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Airesdev2026&color=27F5C2&style=for-the-badge&label=VISITORS" alt="Visitors Count"/>
-</div>
+
+
